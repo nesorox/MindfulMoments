@@ -4,10 +4,12 @@ README
 
 Overview
 
-	Mindful Moments is an innovative meditation app designed to support and enhance your journey towards mindfulness,
- 	offering a deeply personalized experience. By integrating cutting-edge AI technology, Mindful Moments adapts to your unique preferences,
+	Mindful Moments is an innovative meditation app designed to support
+ 	and enhance your journey towards mindfulness, offering a deeply personalized experience.
+  	By integrating cutting-edge AI technology, Mindful Moments adapts to your unique preferences,
   	goals, and feedback, providing meditation sessions that evolve with you over time.
-   	Our mission is to make meditation accessible to everyone, helping users reduce stress, improve mental health, and cultivate a peaceful, mindful lifestyle.
+   	Our mission is to make meditation accessible to everyone, helping users reduce stress,
+    	improve mental health, and cultivate a peaceful, mindful lifestyle.
 
 
 Features
