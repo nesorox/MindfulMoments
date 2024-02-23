@@ -63,9 +63,11 @@ Objectives
 Getting Started
 
 	Quick Setup
-		Download Mindful Moments from your preferred app store and follow the intuitive setup process to 		create your profile.
+		Download Mindful Moments from your preferred app store
+  		and follow the intuitive setup process to create your profile.
   		
-    		Opt into the personalization questionnaire for a tailored meditation experience from day one.
+    Opt into the personalization questionnaire for 
+    	a tailored meditation experience from day one.
 
 Navigating the App
 		
