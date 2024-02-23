@@ -86,8 +86,10 @@ Navigating the App
 
 Support and Engagement
 
-	We're committed to providing an exceptional experience and welcome your feedback to continually improve 
-	Support:
+	We're committed to providing an exceptional experience and welcome your feedback
+ 	to continually improve 
+	
+ 	Support:
  		For assistance, please visit "Help & Support" in the app
    		or email us at support@mindfulmoments.com.
 
