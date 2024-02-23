@@ -9,17 +9,19 @@ Overview
  	By integrating cutting-edge AI technology, Mindful Moments adapts to your unique preferences,
 	goals, and feedback, providing meditation sessions that evolve with you over time.
    	Our mission is to make meditation accessible to everyone, helping users reduce stress,
-    	improve mental health, and cultivate a peaceful, mindful lifestyle.
+    improve mental health, and cultivate a peaceful, mindful lifestyle.
 
 
 Features
 
 	Personalized Meditation Experience:
-		Utilizes AI to recommend meditation sessions tailored to your preferences and emotional state.
+		Utilizes AI to recommend meditation sessions tailored
+  		to your preferences and emotional state.
 
 	Comprehensive Meditation Library:
-		Access an extensive collection of meditation practices, including mindfulness,
-  		guided visualization, loving-kindness, and more, suitable for beginners to advanced practitioners.
+		Access an extensive collection of meditation practices,
+		including mindfulness, guided visualization, loving-kindness,
+ 		and more, suitable for beginners to advanced practitioners.
 
 	Interactive Learning:
 		Engage with interactive modules designed to teach meditation principles,
