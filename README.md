@@ -76,7 +76,9 @@ Contribute
 	Interested in contributing to Mindful Moments? Whether through meditation content, app development, or community activities, we welcome your talents and passion. Contact us at contributors@mindfulmoments.com to get involved.
 
 Privacy Commitment
+
 	Your privacy is our priority. We're transparent about our data practices and dedicated to protecting your information. For a detailed overview, please review our Privacy Policy in the app or on our website.
 
 Closing Thoughts
+
 	Thank you for choosing Mindful Moments. Whether you're seeking peace, looking to reduce stress, or exploring mindfulness, we're here to support you on this journey. Together, let's create a more mindful and compassionate world.
