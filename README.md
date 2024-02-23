@@ -55,16 +55,17 @@ Objectives
   		sharing, and mutual growth.
 
 	Prioritize Privacy and Security:
-		Maintain the utmost respect for user privacy and data security, with a transparent approach
-  		to data usage and user consent.
+		Maintain the utmost respect for user privacy and data security,
+  		with a transparent approach to data usage and user consent.
 
 
 
 Getting Started
 
 	Quick Setup
-		Download Mindful Moments from your preferred app store and follow the intuitive setup process to create your profile.
-  		Opt into the personalization questionnaire for a tailored meditation experience from day one.
+		Download Mindful Moments from your preferred app store and follow the intuitive setup process to 		create your profile.
+  		
+    		Opt into the personalization questionnaire for a tailored meditation experience from day one.
 
 Navigating the App
 		
@@ -72,34 +73,42 @@ Navigating the App
 
 		Home: Your daily personalized meditation recommendations.
 
-		Library: A treasure trove of meditation sessions across various styles and lengths.
+		Library: A treasure trove of meditation sessions across various 
+  		styles and lengths.
 
 		Progress: Visualize your meditation journey and milestones.
 
-		Community: Engage with fellow meditators in discussions, challenges, and shared experiences.
+		Community: Engage with fellow meditators in discussions, challenges,
+  		and shared experiences.
 
 
 Support and Engagement
 
-	We're committed to providing an exceptional experience and welcome your feedback to continually improve: 
+	We're committed to providing an exceptional experience and welcome your feedback to continually improve 
 	Support:
- 		For assistance, please visit "Help & Support" in the app or email us at support@mindfulmoments.com.
+ 		For assistance, please visit "Help & Support" in the app
+   		or email us at support@mindfulmoments.com.
 
 	Feedback:
  		Share your thoughts, suggestions, or stories to help us grow together as a community.
 
 Contribute
 
-	Interested in contributing to Mindful Moments? Whether through meditation content, app development,
- 	or community activities, we welcome your talents and passion.
+	Interested in contributing to Mindful Moments? Whether through
+	meditation content, app development, or community activities,
+ 	we welcome your talents and passion.
   	Contact us at contributors@mindfulmoments.com to get involved.
 
 Privacy Commitment
 
-	Your privacy is our priority. We're transparent about our data practices and dedicated to protecting your information.
+	Your privacy is our priority. We're transparent about our data practices
+ 	and dedicated to protecting your information.
  	For a detailed overview, please review our Privacy Policy in the app or on our website.
 
 Closing Thoughts
 
-	Thank you for choosing Mindful Moments. Whether you're seeking peace, looking to reduce stress, or exploring mindfulness,
- 	we're here to support you on this journey. Together, let's create a more mindful and compassionate world.
+	Thank you for choosing Mindful Moments. Whether you're seeking peace,
+ 	looking to reduce stress, or exploring mindfulness, we're here
+  	to support you on this journey. 
+   
+   Together, let's create a more mindful and compassionate world.
